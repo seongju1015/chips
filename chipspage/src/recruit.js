@@ -1,9 +1,9 @@
 import React from "react";
 
-const recruit = () => {
+const award = () => {
     return(
         <div>this is recruit page</div>
     )
 }
 
-export default recruit
+export default award
