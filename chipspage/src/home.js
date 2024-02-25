@@ -205,13 +205,6 @@ const IntroduceDiv1 = styled.div`
     margin-top: 2%;
     margin-left: 2%;
 `;
-const HeaderImg = styled.img`
-    width: 45%;
-    height: 65%;
-    border: 4px solid rgba(153, 153, 255, 0.4);
-    border-radius: 8px;
-    margin-top: 5%;
-`;
 const RecruitLink = styled(Link)`
   color: rgba(255, 255, 255, 1);
   font-family: "Pretendard";
