@@ -2,12 +2,17 @@ import React from "react";
 import styled from "styled-components";
 
 const award = () => {
+
+    const goToHomePage = () => {
+        window.location.href = "/";
+    }
+
     return(
         <Container>
 
             <Header>
-                <LogoImg src="chipsIcon.png"></LogoImg>
-                <img src="chipsx2.png" alt="chips logo"></img>
+                <LogoImg src="chipsIcon.png" onClick={goToHomePage} style={{cursor:"pointer"}}></LogoImg>
+                <img src="chipsx2.png" alt="chips logo" onClick={goToHomePage} style={{cursor:"pointer"}}></img>
             </Header>
 
             <Line></Line>

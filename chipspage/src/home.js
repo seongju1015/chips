@@ -8,12 +8,12 @@ const data = [
     {
       id: 1,
       name: "칩스 단체사진1",
-      img: "/chipsPhoto.png",
+      img: "/chipsphoto5.png",
     },
     {
       id: 2,
       name: "칩스 단체사진2",
-      img: "/chipsPhoto2.png",
+      img: "/chipsphoto4.png",
     },
     {
       id: 3,
