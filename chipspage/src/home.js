@@ -207,7 +207,7 @@ const IntroduceDiv1 = styled.div`
 `;
 const RecruitLink = styled(Link)`
   color: rgba(255, 255, 255, 1);
-  font-family: "Pretendard";
+  //font-family: "Pretendard";
   font-style: normal;
   line-height: normal;
   font-weight: 800;
