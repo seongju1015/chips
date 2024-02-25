@@ -38,7 +38,7 @@ const ChipsHomePage = () => {
         <Container>
             <Header>
                 <LogoImg src="chipsIcon.png"></LogoImg>
-                <img src="chipsx2.png"></img>
+                <img src="chipsx2.png" alt="chips logo"></img>
                 <AwardLink to="/award">활동 이력</AwardLink>
             </Header>
             
